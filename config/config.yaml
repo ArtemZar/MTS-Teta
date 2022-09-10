@@ -1,0 +1,4 @@
+server:
+  addr: ":8080"
+credentials: {User1: "12345", User2: "54321"}
+sign_key: "jkwh3flwjhf324mbn44m32nb"
